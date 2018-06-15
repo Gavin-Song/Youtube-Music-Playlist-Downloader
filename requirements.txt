@@ -1,0 +1,4 @@
+mutagen
+pytube
+youtube_title_parse
+requests
